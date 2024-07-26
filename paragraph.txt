@@ -1,0 +1,1 @@
+This is a sample paragraph. This paragraph is used for testing word count. Testing, testing, 1, 2, 3!

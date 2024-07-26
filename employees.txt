@@ -1,0 +1,4 @@
+Name: Alice Johnson, Age: 29, Salary: $75000
+Name: Bob Smith, Age: 35, Salary: $82000
+Name: Charlie Brown, Age: 42, Salary: $95000
+Name: Diana Prince, Age: 30, Salary: $78000

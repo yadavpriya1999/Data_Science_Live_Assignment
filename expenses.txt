@@ -1,0 +1,5 @@
+Lunch,12.50
+Coffee,3.75
+Books,45.00
+Transportation,20.00
+Snacks,8.25
